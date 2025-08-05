@@ -20,7 +20,7 @@ Q-A Chatbot using Ollama is a lightweight and powerful web-based chatbot interfa
 ###  Prompt Handling & Response
 - LangChain-powered prompt chaining
 - Custom prompt template for consistent AI behavior
-- Streaming response capability (can be extended)
+- Streaming response capability 
 
 ###  Streamlit Web Interface
 - User input for questions
