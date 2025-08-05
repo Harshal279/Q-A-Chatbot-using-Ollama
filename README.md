@@ -63,11 +63,7 @@ python -m venv venv
 # 3. Activate the environment
 # On Windows:
 venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
 
 # 4. Install dependencies
 pip install -r requirements.txt
 
-# 5. Create a .env file
-echo LANGSMITH_API_KEY=your_api_key_here > .env
