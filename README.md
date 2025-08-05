@@ -48,7 +48,6 @@ Q-A Chatbot using Ollama is a lightweight and powerful web-based chatbot interfa
 - Python 3.8+
 - Ollama installed and running locally
 - Models downloaded via `ollama pull`
-- Docker (optional, if containerizing)
 
 ###  Setup Instructions
 
